@@ -1,0 +1,5 @@
+clear all; clc;
+x = imread('J069_089.tif');
+
+
+
